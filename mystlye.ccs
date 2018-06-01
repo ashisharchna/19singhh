@@ -1,7 +1,4 @@
-h1 {
-color: red;
-font-family: comic-sans;
-}
+
 
 body {
 background-color: #000000;
